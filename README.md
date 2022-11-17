@@ -1,2 +1,1 @@
 # FreelanceMotoKurye-Backend
- FreelanceMotoKuryeApp-Backend
